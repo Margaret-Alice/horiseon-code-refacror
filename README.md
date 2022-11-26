@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-This website is to be used by potential clients of Horiseon's marketing agency. 
+This website is to be used by prospective clients who wants to know more about Horiseon's marketing agency and the services they provide. 
 
 ![Webpage layout screenshot](https://github.com/Margaret-Alice/horiseon-code-refactor/blob/main/starter/assets/images/screenshot.png)
 
