@@ -18,11 +18,11 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+This website is to be used by potential clients of Horiseon's marketing agency. 
 
 ![Webpage layout screenshot](https://github.com/Margaret-Alice/horiseon-code-refactor/blob/main/starter/assets/images/screenshot.png)
 
-This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+NOTE: This layout is designed for desktop viewing, so layout may be different at a resolution smaller than 768px.
 
 ## Credits
 
