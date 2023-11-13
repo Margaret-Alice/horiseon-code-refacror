@@ -2,23 +2,12 @@
 
 ## Description
 
-This project took exisiting code of Horiseon's website (a marketing agency) and refactored it. This included: making sure all the links are functioning correctly, minimising CSS code repetitions, using semantic HTML elements, using alt attributes for images and icon elements an providing a descriptive title to the webpage. 
+This project took exisiting code of Horiseon's website (a marketing agency) and refactored it. The reasoning behind this project was that Horiseon marketing agency wanted a codebase that followed accessibility standards, so that their website it optimized for seatch engines. 
 
-The reasoning behind this project was that Horiseon marketing agency wanted a codebase that followed accessibility standards, so that their website it optimized for seatch engines. 
+Code changes include: making sure all the links are functioning correctly, minimising CSS code repetitions, using semantic HTML elements, using alt attributes for images and icon elements an providing a descriptive title to the webpage. 
 
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google.
 
-There were no challenges with this project. 
-
-Link: https://margaret-alice.github.io/horiseon-code-refactor/starter/index.html
-
-## Installation
-
-N/A
-
-## Usage
-
-This website is to be used by prospective clients who wants to know more about Horiseon's marketing services. 
+Link: https://margaretalice-a.github.io/horiseon-code-refactor/starter/index.html
 
 ![Webpage layout screenshot](https://github.com/Margaret-Alice/horiseon-code-refactor/blob/main/starter/assets/images/screenshot.png)
 
